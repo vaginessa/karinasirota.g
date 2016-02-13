@@ -4,12 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
 
-### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+### About Me
 
-### Contact me
+Karina is an undergraduate at Northwestern University. She is a web and app developer and an aspiring product manager and market research analyst, with experience in sales, research, product development and customer service.
 
-[email@domain.com](mailto:email@domain.com)

@@ -8,5 +8,7 @@ permalink: /about/
 
 ### About Me
 
-Karina is an undergraduate at Northwestern University. She is a web and app developer and an aspiring product manager and market research analyst, with experience in sales, research, product development and customer service.
+Karina is currently at Northwestern University. She hopes work where technology and marketing meet. She's interested in working in product management, market research or HCI research​. 
+
+Outside of the business world, Karina enjoys watching TV, reading books and eating salmon.
 

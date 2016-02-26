@@ -2,7 +2,7 @@
 layout: post
 title: Thoughts post-HackIllinois
 ---
-As my first post, it seems only fitting that I describe my first time at Hackathon I attended over the weekend. 
+As my first post, it seems only fitting that I describe my first time at the hackathon I attended over the weekend. 
 
 I had an excellent time, despite getting maybe 10 hours of sleep for the whole weekend. My team and I made an application that tried to persuade people to spend less time with their phones and more time with their friends. We did it in Android (thanks Apple for not being inclusive of Windows users). I have some Android experience, but I never made anything so fast. 36 hours is really small, especially when you don’t get enough sleep during the week. We made a quick website, which can be found here: <a href="http://rude.herokuapp.com">Rude App</a>. We didn’t win anything, but we did get a lot of positive feedback and got to network with a lot of people. My current issues with it are that UI looks basic and the auto-post isn’t quite working. These are pretty straight-forward fixes that will be done in the next few weeks. Look out for a pretty UI :)
 There was so much food and fun during this event! I don’t think I ever stopped eating. I especially appreciated the Insomnia cookies, something we don’t have in Evanston. I appreciated the time working with my team. I had known my team prior to the event and I loved getting to connect with them even further. Apparently, you do bond over coding at 3 am, even if you also want them to stop coding so you can go to sleep for a while. 

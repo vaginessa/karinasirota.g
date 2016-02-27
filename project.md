@@ -17,4 +17,8 @@ Time Span: Two Weeks
 
 This is a simple calculator mimiking the Apple calculator. 
 
+#### Art Therapy Tablet Prototype
+Time Span: 6 months and counting
+
+I've been developing a tablet to help art therapy patients share their work with their families over the internet. I've implemented an andriod application as the base for the tab, as well as ioio button for easy pressing. This product is iteratively designed, constantly being tested with the users and updated.
 

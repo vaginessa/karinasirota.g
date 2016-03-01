@@ -9,6 +9,7 @@ permalink: /projects/
 ### Projects Done
 #### [Foodo.io](/foodo.io/)
 Time Span: Two Weeks
+
 This was done for EECS 330: Human-Computer Interaction. 
 
 #### [Rude App](https://rude.herokuapp.com/)

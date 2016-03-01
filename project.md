@@ -7,6 +7,10 @@ permalink: /projects/
 
 
 ### Projects Done
+#### [Foodo.io](/foodo.io/)
+Time Span: Two Weeks
+This was done for EECS 330: Human-Computer Interaction. 
+
 #### [Rude App](https://rude.herokuapp.com/)
 Time Span: 36 hours
 
@@ -17,7 +21,7 @@ A simple application to help friends spend more quality time together. We made t
 #### [Apple Calculator](/EECS330-Calculator/)
 Time Span: Two Weeks
 
-This is a simple calculator mimiking the Apple calculator. 
+This is a simple calculator mimiking the Apple calculator. Its functionality will be updated periodically. 
 
 #### Art Therapy Tablet Prototype
 Time Span: 6 months and counting

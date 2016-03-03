@@ -8,7 +8,7 @@ title: Chicago updates core curriculum
 
  Come college application time, I realized my number 1 college choice didn't offer a business school, which threw me for a loop. What was I going to study? After looking through all the majors extensively, I settled on Communications. It's a fine major, but I didn't think it was enough and I certainly didn't think that it was worth a quarter of a million dollars. So I started looking for another major. Econ didn't work for me, but I found I liked the introductory computer science class that I took for my math/science distro, so I decided to take the next class in the sequence. And then the next one. And then the next 23. 
 
- So how is this relevant? 
+ So how is this relevant to the argument?
 
  I wish that I had been required to take a CS in high school. A lot of my peers did, since it was required for all freshman taking Geometry and in the Talented Young Mathematicians Program. My parents pushed for me to take a class in high school, but it seemed pointless since I had already decided I wouldn't be a scientist. Little did I know that computer science wouldn't be the end for me; it would push me along to get to my goal. I had taken so many subjects in high school and was allowed to make some decisions there, but I never tried computer science. 
 

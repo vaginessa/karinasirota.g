@@ -2,6 +2,8 @@
 layout: post
 title: Chicago updates core curriculum
 ---
+
+
  Last week, Chicago became the first city in the country to make computer science education a core subject. This means that all students in Chicago public high schools will be required to take a computer science class in order to graduate. It'll be joining English and Math as core subjects. 
 
  This is a topic very near and dear to my heart. When I went to high school, I had no intention of taking any 'extra' science classes, other than what was required of me, which was biology and chemistry. I also ended up taking physics, since it was pretty much required for all the colleges I applied to. I took no AP science classes. Instead, I took newspaper classes and English classes galore. I thought I would be a journalism major or an English major or a marketing major throughout my time in high school. 

@@ -10,7 +10,7 @@ permalink: /about/
 
 
 
-<img src="/images/Karina.Updated.HEAdshot.final.jpg" alt="karina" style="width:304px;height:400px;">
+<img src="/images/Karina.Updated.HEAdshot.final.jpg" alt="karina" style="width:304px;height:450px;">
 
 Karina is currently at Northwestern University. She hopes work where technology and marketing meet. She's interested in working in product management, market research or HCI research​. 
 

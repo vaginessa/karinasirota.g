@@ -11,7 +11,7 @@ permalink: /about/
 
 
 <img src="/images/Karina.Updated.HEAdshot.final.jpg" alt="karina" style="width:304px;height:470px;">
-<img src="13923783_1393947720620065_1540513592780113239_o.jpg" alt="karina">
+<img src="/images/13923783_1393947720620065_1540513592780113239_o.jpg" alt="karina">
 
 I'm a senior at Northwestern University studying Communications and Computer Science with a certificate in Integrated Marketing Communications. 
 Basically, I'm computationally-minded marketer, analyst and app maker. I am currently looking for full-time opportunities where business and technology collide. 
